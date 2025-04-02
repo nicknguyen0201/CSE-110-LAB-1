@@ -1,2 +1,2 @@
 # CSE-110-LAB-1
-Nick's user page
+This is Nick's user page
