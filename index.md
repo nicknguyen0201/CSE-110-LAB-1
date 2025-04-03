@@ -1,14 +1,14 @@
 # Everything you need to know about **Nick**
 ## About me
 ### Pic
-![Nick's Pic at La Jolla Cove with a seal](images\IMG_1406.JPEG)
+![Nick's Pic at La Jolla Cove with a seal](images/IMG_1406.JPEG)
 ### Gen Info
 I like:
 1. Cat
 2. Ben & Jerry ice cream
 3. Playing violin
 4. Ghibli studio movies
-[This is relative link to the Ghibli style Geisel Library I used Chat gpt to create](images\Geisel_Ghibli_style.png)
+[This is relative link to the Ghibli style Geisel Library I used Chat gpt to create](images/Geisel_Ghibli_style.png)
 
 I like to read and listen to:
 - Business
