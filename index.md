@@ -5,9 +5,10 @@
 ### Gen Info
 I like:
 1. **Cat**
-2. Ben & Jerry's ice cream
-3. Playing violin
-4. Ghibli studio movies
+2. Boba
+3. Ben & Jerry's ice cream
+4. Playing violin
+5. Ghibli studio movies
 [This is a relative link to the Ghibli style Geisel Library I used Chat GPT to create](images/Geisel_Ghibli_style.png)
 
 I like to read books and listen to a bunch of podcasts:
