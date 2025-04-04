@@ -4,16 +4,17 @@
 ![Nick's Pic at La Jolla Cove with a seal](images/IMG_1406.JPEG)
 ### Gen Info
 I like:
-1. Cat
-2. Ben & Jerry ice cream
+1. **Cat**
+2. Ben & Jerry's ice cream
 3. Playing violin
 4. Ghibli studio movies
-[This is relative link to the Ghibli style Geisel Library I used Chat gpt to create](images/Geisel_Ghibli_style.png)
+[This is a relative link to the Ghibli style Geisel Library I used Chat GPT to create](images/Geisel_Ghibli_style.png)
 
-I like to read and listen to:
+I like to read books and listen to a bunch of podcasts:
 - Business
 - Personal finance
-- Tech podcasts from NPR Plannet Money
+- Tech podcasts
+- NPR Planet Money podcast
 - Acquired podcasts
 - WSJ podcasts
 
@@ -21,7 +22,7 @@ Favorite motivation quote:
 > The discomfort of growth is always less than the heartbreak of regret 
 by _Robin Sharma_
 
-This is the first lines of code I learned:
+These are the first lines of code I learned:
 ```
 public class{
     public static void main(String args[]){
@@ -30,7 +31,7 @@ public class{
  }
 ```
 
-This is link to my favorite Youtube Chanel:
+This is a link to my favorite YouTube Chanel:
 [Oversimplified](https://www.youtube.com/oversimplified)
 
 [About me](#about-me)
