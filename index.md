@@ -1,3 +1,7 @@
+---
+layout: default
+title: Nick’s Profile
+---
 # Everything you need to know about **Nick**
 ## About me
 ### Pic
